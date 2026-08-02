@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1. 1.MinBy/1. 1.MinBy.vcxproj" Id="9179d742-8ba6-47a4-898c-903c7b6e9876" />
+  <Project Path="1. TryParse/1. TryParse.vcxproj" Id="73f379bb-d672-4efb-82f0-9ac1668ce4e1" />
+  <Project Path="2. Find/2. Find.vcxproj" Id="9df566b8-f4a2-47ae-875e-9cee560c2775" />
+  <Project Path="2. Remove Invalid/2. Remove Invalid.vcxproj" Id="475da701-eec3-4de6-8839-5d19fb9ec622" />
+  <Project Path="3. Order/3. Order.vcxproj" Id="2c6d6731-640f-4d35-af3a-a5ba16d319d9" />
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="aaed30e7-e984-4637-bd2d-407c3c0f7680" />
+  <Project Path="customProject/customProject.vcxproj" Id="e20a15f8-2397-45a1-8b5b-4b251d565ee9" />
+  <Project Path="hnduabhudyaw/hnduabhudyaw.vcxproj" Id="a701bbe6-cdd1-44d8-b4d6-b2b2efe9482d" />
+  <Project Path="practiceDynamic/practiceDynamic.vcxproj" Id="c07c14a2-68a1-4aea-8f2e-77b27ccbb64d" />
+</Solution>
